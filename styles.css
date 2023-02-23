@@ -1,0 +1,78 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizig:border-box;
+}
+.logo{
+    margin:25px;
+    height:50px;
+    width:100px;
+    padding: 0, auto;
+    margin:0;
+}
+.content1{
+    width:60%;
+    height:100vh;
+    float:left;
+    }
+
+.we-are{
+    font-family: 'Josefin Sans', sans-serif;
+    color:rgba(203,160,163,255);
+    
+    
+    margin-top:40px;    
+    line-height:2.2rem;
+    letter-spacing:10px;
+    font-weight:300;
+}
+.coming{
+    color:#433a3b;
+    letter-spacing:8px;
+    margin-top:-60px;
+    font-size:xx-large;
+    margin: 100 auto;
+    font-family: 'Nunito Sans', sans-serif;
+}
+p{
+    color:rgba(203,160,163,255);
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:800;
+    word-spacing:4px;
+    max-width:85%;
+    
+    line-height: 1.3rem;
+    margin-bottom:20px;
+    
+}
+.content2{
+    width:40%;
+    height:100vh;
+    float:right;
+    
+}
+form{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.email-input{
+    border-radius: 20px;
+    width: 55%;
+    color:pink;
+    margin-left:-350px;
+    border: 1px solid hsla(0, 19%, 60%, 0.652);
+
+}
+.btn{
+    background:linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
+    padding: 10px 10px;
+    border:none;
+    width:80px;
+    border-radius: 95px;
+    margin-left: -80px;
+  }
+  .placeholder{
+    color:rgba(203,160,163,255);
+  }
